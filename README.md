@@ -6,8 +6,8 @@
 
 ### Jackson and Carney, 2005 - The Spontaneous-Rate Histogram of the Auditory Nerve Can Be Explained by Only Two or Three Spontaneous Rates and Long-Range Dependence (*JARO* 6:148-159)
 
-- [Jackson et al., JARO 2005 Manuscript](http://www.urmc.rochester.edu/labs/Carney-Lab/publications/res/JacksonCarney-JARO-2005.pdf)  
-- [Jackson et al., Model Code](http://www.urmc.rochester.edu/labs/Carney-Lab/publications/res/JacksonCarney-JAROcode-2005.zip)
+- [Jackson et al., JARO 2005 Manuscript](https://www.urmc.rochester.edu/MediaLibraries/URMCMedia/labs/carney-lab/documents/articles/JacksonCarney-JARO-2005.pdf)  
+- [Jackson et al., Model Code](https://www.urmc.rochester.edu/MediaLibraries/URMCMedia/labs/carney-lab/codes/JacksonCarney-JAROcode-2005.zip)
 
 ---
 
